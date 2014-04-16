@@ -1,6 +1,6 @@
 name             'mysql-community'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'moritata'
+maintainer_email 'takashi_morita@hotmail.com'
 license          'All rights reserved'
 description      'Installs/Configures mysql-community'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
